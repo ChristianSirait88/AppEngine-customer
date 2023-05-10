@@ -12,5 +12,5 @@ handlers:
   upload: .+\.(gif|png|jpg)$
 
 # Serve your app through a front controller at index.php or public/index.php.
-- url: .*
+- url: loginpelanggan.php
   script: auto
